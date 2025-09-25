@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Homework 3</title>
+
+</head>
+
+<body>
+
+<h1>Homework 2</h1>
+
+<h2>1st Image</h2>
+
+  <img src="medpl week 3 2nd image EDIT.jpg" width="80%">
+  <a href="week 3 homework 1.html">Go to previous image</a>
+  <a href="index.html">Go to homepage</a>
+
+  </body>
+  
+</html>
